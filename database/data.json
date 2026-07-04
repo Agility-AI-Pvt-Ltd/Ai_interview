@@ -1,0 +1,196 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "created_at": "2026-07-03T08:59:23.920Z",
+      "title": "Senior Frontend Developer",
+      "department": "Engineering",
+      "experience_required": "3-5 years",
+      "skills_required": "React, TypeScript, Node.js, CSS",
+      "description": "We are looking for a senior frontend developer to build modern web applications."
+    },
+    {
+      "id": 2,
+      "created_at": "2026-07-03T08:59:41.656Z",
+      "title": "Senior Frontend Developer",
+      "department": "Engineering",
+      "experience_required": "3-5 years",
+      "skills_required": "React, TypeScript, Node.js, CSS",
+      "description": "We are looking for a Senior Frontend Developer to build modern, responsive web applications. You will work with React, TypeScript, and collaborate with cross-functional teams."
+    },
+    {
+      "id": 3,
+      "created_at": "2026-07-03T09:03:32.055Z",
+      "title": "Senior Frontend Developer",
+      "department": "Engineering",
+      "experience_required": "3-5 years",
+      "skills_required": "React, TypeScript, Node.js, CSS",
+      "description": "We are looking for a Senior Frontend Developer to build modern, responsive web applications. You will work with React, TypeScript, and collaborate with cross-functional teams."
+    }
+  ],
+  "candidates": [
+    {
+      "id": 1,
+      "status": "shortlisted",
+      "created_at": "2026-07-03T08:59:41.657Z",
+      "skills_matched": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "CSS"
+      ],
+      "missing_skills": [],
+      "ai_recommendation": "Recommend",
+      "job_id": 2,
+      "name": "John Smith",
+      "resume_text": "John Smith\nSenior Frontend Developer\n\nSKILLS: React, TypeScript, Node.js, CSS, JavaScript, Git\nEXPERIENCE: 5 years building web apps with React and TypeScript at TechCorp.",
+      "resume_score": 73,
+      "interview_token": "658d98ef"
+    },
+    {
+      "id": 2,
+      "status": "pending",
+      "created_at": "2026-07-03T08:59:41.658Z",
+      "skills_matched": [],
+      "missing_skills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "CSS"
+      ],
+      "ai_recommendation": "Reject",
+      "job_id": 2,
+      "name": "Sarah Johnson",
+      "resume_text": "Sarah Johnson\nFull Stack Engineer\n\nSKILLS: Python, Django, PostgreSQL, AWS\nEXPERIENCE: 4 years backend development. Limited frontend experience.",
+      "resume_score": 12
+    },
+    {
+      "id": 3,
+      "status": "pending",
+      "created_at": "2026-07-03T08:59:41.658Z",
+      "skills_matched": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "CSS"
+      ],
+      "missing_skills": [],
+      "ai_recommendation": "Strongly Recommend",
+      "job_id": 2,
+      "name": "Mike Chen",
+      "resume_text": "Mike Chen\nFrontend Developer\n\nSKILLS: React, TypeScript, Node.js, CSS, Tailwind, Next.js\nEXPERIENCE: 3 years frontend development with React and TypeScript.",
+      "resume_score": 83
+    },
+    {
+      "id": 4,
+      "status": "shortlisted",
+      "created_at": "2026-07-03T09:03:32.056Z",
+      "skills_matched": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "CSS"
+      ],
+      "missing_skills": [],
+      "ai_recommendation": "Strongly Recommend",
+      "job_id": 3,
+      "name": "John Smith",
+      "resume_text": "John Smith\nSenior Frontend Developer\n\nSKILLS: React, TypeScript, Node.js, CSS, JavaScript, Git\nEXPERIENCE: 5 years building web apps with React and TypeScript at TechCorp.",
+      "resume_score": 77,
+      "interview_token": "4209620c"
+    },
+    {
+      "id": 5,
+      "status": "pending",
+      "created_at": "2026-07-03T09:03:32.057Z",
+      "skills_matched": [],
+      "missing_skills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "CSS"
+      ],
+      "ai_recommendation": "Reject",
+      "job_id": 3,
+      "name": "Sarah Johnson",
+      "resume_text": "Sarah Johnson\nFull Stack Engineer\n\nSKILLS: Python, Django, PostgreSQL, AWS\nEXPERIENCE: 4 years backend development. Limited frontend experience.",
+      "resume_score": 38
+    },
+    {
+      "id": 6,
+      "status": "pending",
+      "created_at": "2026-07-03T09:03:32.057Z",
+      "skills_matched": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "CSS"
+      ],
+      "missing_skills": [],
+      "ai_recommendation": "Recommend",
+      "job_id": 3,
+      "name": "Mike Chen",
+      "resume_text": "Mike Chen\nFrontend Developer\n\nSKILLS: React, TypeScript, Node.js, CSS, Tailwind, Next.js\nEXPERIENCE: 3 years frontend development with React and TypeScript.",
+      "resume_score": 67
+    }
+  ],
+  "interviews": [
+    {
+      "id": 1,
+      "status": "completed",
+      "questions": [
+        "Tell us about your experience relevant to the Senior Frontend Developer position.",
+        "Describe a challenging project you worked on and how you handled it.",
+        "How do you stay updated with the latest trends in Engineering?",
+        "Walk us through your approach to React.",
+        "Describe a time you had to collaborate with a cross-functional team.",
+        "What motivates you to apply for this Senior Frontend Developer role?",
+        "How do you prioritize tasks when working under tight deadlines?"
+      ],
+      "answers": [
+        "I have 5 years of React experience building scalable SPAs.",
+        "I led a migration from class components to hooks, reducing bundle size by 30%.",
+        "I follow React blogs, attend conferences, and contribute to open source.",
+        "I use component-driven development with Storybook and write comprehensive tests.",
+        "I collaborated with designers and backend engineers on a major product launch.",
+        "I am passionate about building great user experiences with modern frontend tech.",
+        "I use priority matrices and communicate early when deadlines are at risk."
+      ],
+      "overall_score": 62,
+      "technical_score": 59,
+      "communication_score": 65,
+      "strengths": "Demonstrates solid technical knowledge. Shows good problem-solving approach. Communicates ideas clearly.",
+      "weaknesses": "Could provide more specific examples. Limited depth in some technical areas.",
+      "hiring_recommendation": "Reject",
+      "created_at": "2026-07-03T08:59:41.659Z",
+      "candidate_id": 1
+    },
+    {
+      "id": 2,
+      "status": "in_progress",
+      "questions": [
+        "Tell us about your experience relevant to the Senior Frontend Developer position.",
+        "Describe a challenging project you worked on and how you handled it.",
+        "How do you stay updated with the latest trends in Engineering?",
+        "Walk us through your approach to React.",
+        "Describe a time you had to collaborate with a cross-functional team.",
+        "What motivates you to apply for this Senior Frontend Developer role?",
+        "How do you prioritize tasks when working under tight deadlines?"
+      ],
+      "answers": [],
+      "overall_score": 0,
+      "technical_score": 0,
+      "communication_score": 0,
+      "strengths": "",
+      "weaknesses": "",
+      "hiring_recommendation": "",
+      "created_at": "2026-07-03T09:03:32.058Z",
+      "candidate_id": 4
+    }
+  ],
+  "_counters": {
+    "jobs": 3,
+    "candidates": 6,
+    "interviews": 2
+  }
+}
